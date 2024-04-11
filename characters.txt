@@ -4,3 +4,5 @@ its about.
 this is a remote repo clonned Once.
 
 i added some more but i want to switch back.
+
+i removed some data. now its cool
